@@ -1,0 +1,5 @@
+cn\itcast\servceImpl\SkuServoceImpl.class
+cn\itcast\dao\SkuMapper.class
+cn\itcast\Service\SkuService.class
+cn\itcast\Controller\TestSkuController.class
+cn\itcast\goods\Sku.class

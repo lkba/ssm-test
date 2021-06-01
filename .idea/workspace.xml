@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm-test:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfb7982d-5bda-442d-aa01-a83d47c35e39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="xml" />
+        <option value="Gradle Kotlin DSL Settings" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/ProgramFiles/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\ProgramFiles\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1WClY0p1v7Nb0KJGFVnY6PCSqE8" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576318809379" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gulimall" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29425287" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Tomcat\test\ssm-test\casClientDemo3\src\main\webapp\WEB-INF" />
+      <recent name="E:\Tomcat\test\ssm-test\elasticsearchDemo\src\main" />
+      <recent name="E:\Tomcat\test\ssm-test\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lkb.test.za7za8" />
+      <recent name="com.lkb" />
+      <recent name="cn.itcast.demo" />
+      <recent name="cn.itcast" />
+      <recent name="com.lkb.test.org.mindrot.jbcrypt" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaProject2\ssm-test\src\main\java\com\lkb\designMode" />
+      <recent name="D:\javaProject2\ssm-test\src\main\java\com\lkb\designMode\factoryPatternLight" />
+      <recent name="E:\Tomcat\test\ssm-test\casClientDemo3\src\main\webapp" />
+      <recent name="E:\Tomcat\test\ssm-test\casClientDemo3\src\main\resources" />
+      <recent name="E:\Tomcat\test\ssm-test\casClientDemo3\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.msoutput">
+    <configuration name="StupidFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lkb.algorithm.StupidFactorial" />
+      <module name="ssm-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lkb.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaterVolume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lkb.algorithm.WaterVolume" />
+      <module name="ssm-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lkb.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="delRepeatDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lkb.algorithm.delRepeatDate" />
+      <module name="ssm-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lkb.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lkb.algorithm.findMin" />
+      <module name="ssm-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lkb.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="msoutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lkb.test.za7za8.msoutput" />
+      <module name="ssm-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lkb.test.za7za8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ssm-test" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.14" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8098/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssm-test:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_ssm-test" />
+        <option name="HTTP_PORT" value="8098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55594" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm-test:war exploded" />
+          <artifact name="SpringSecurity:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="mms-test" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.14" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="ssm-test:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ssm-test_2" />
+        <option name="HTTP_PORT" value="8098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55594" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm-test:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StupidFactorial" />
+      <item itemvalue="Application.WaterVolume" />
+      <item itemvalue="Application.delRepeatDate" />
+      <item itemvalue="Application.findMin" />
+      <item itemvalue="Application.msoutput" />
+      <item itemvalue="Maven.ssm-test" />
+      <item itemvalue="Tomcat Server.mms-test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.msoutput" />
+        <item itemvalue="Application.findMin" />
+        <item itemvalue="Application.delRepeatDate" />
+        <item itemvalue="Application.WaterVolume" />
+        <item itemvalue="Application.StupidFactorial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfb7982d-5bda-442d-aa01-a83d47c35e39" name="Default Changelist" comment="" />
+      <created>1572754663887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572754663887</updated>
+      <workItem from="1572754671780" duration="6698000" />
+      <workItem from="1572761908022" duration="155000" />
+      <workItem from="1572762259338" duration="2212000" />
+      <workItem from="1573290456876" duration="593000" />
+      <workItem from="1573548301625" duration="7358000" />
+      <workItem from="1573631937767" duration="5057000" />
+      <workItem from="1573733014908" duration="4472000" />
+      <workItem from="1573816830786" duration="3242000" />
+      <workItem from="1573831651045" duration="389000" />
+      <workItem from="1573832194568" duration="345000" />
+      <workItem from="1573832843570" duration="16731000" />
+      <workItem from="1573885865864" duration="3315000" />
+      <workItem from="1574066544677" duration="1152000" />
+      <workItem from="1574077047758" duration="9817000" />
+      <workItem from="1574179127938" duration="650000" />
+      <workItem from="1574220349748" duration="5941000" />
+      <workItem from="1574239732528" duration="16248000" />
+      <workItem from="1574303583014" duration="2299000" />
+      <workItem from="1574654866398" duration="4277000" />
+      <workItem from="1574873321507" duration="878000" />
+      <workItem from="1575427672038" duration="391000" />
+      <workItem from="1576214447519" duration="112000" />
+      <workItem from="1576309021680" duration="427000" />
+      <workItem from="1576309627977" duration="445000" />
+      <workItem from="1576310124073" duration="1768000" />
+      <workItem from="1576850172469" duration="1297000" />
+      <workItem from="1578661502961" duration="1194000" />
+      <workItem from="1580122723732" duration="2201000" />
+      <workItem from="1580179802769" duration="1823000" />
+      <workItem from="1583058345869" duration="1299000" />
+      <workItem from="1586268377408" duration="24000" />
+      <workItem from="1586270358732" duration="2964000" />
+      <workItem from="1598411118085" duration="125000" />
+      <workItem from="1606877036815" duration="100000" />
+      <workItem from="1610678093845" duration="5546000" />
+      <workItem from="1610693060233" duration="7191000" />
+      <workItem from="1610936753626" duration="6678000" />
+      <workItem from="1611126574036" duration="6347000" />
+      <workItem from="1611192339890" duration="7567000" />
+      <workItem from="1611214789493" duration="1126000" />
+      <workItem from="1611215950805" duration="23000" />
+      <workItem from="1611299716846" duration="634000" />
+      <workItem from="1611644645196" duration="1271000" />
+      <workItem from="1611710534958" duration="899000" />
+      <workItem from="1611796307966" duration="599000" />
+      <workItem from="1611885971122" duration="1451000" />
+      <workItem from="1612315791852" duration="691000" />
+      <workItem from="1613725760541" duration="776000" />
+      <workItem from="1613905964132" duration="6668000" />
+      <workItem from="1613988428649" duration="2624000" />
+      <workItem from="1614042635628" duration="151000" />
+      <workItem from="1614162426092" duration="1464000" />
+      <workItem from="1614215345486" duration="759000" />
+      <workItem from="1614484765106" duration="239000" />
+      <workItem from="1614667203060" duration="7586000" />
+      <workItem from="1614736129514" duration="7585000" />
+      <workItem from="1614820636256" duration="1497000" />
+      <workItem from="1614840543708" duration="596000" />
+      <workItem from="1614906867672" duration="1198000" />
+      <workItem from="1616983390044" duration="9828000" />
+      <workItem from="1617175338465" duration="8999000" />
+      <workItem from="1617257989351" duration="6237000" />
+      <workItem from="1617326044316" duration="15871000" />
+      <workItem from="1617697764745" duration="2598000" />
+      <workItem from="1617757754912" duration="2587000" />
+      <workItem from="1617843505719" duration="365000" />
+      <workItem from="1617844209652" duration="766000" />
+      <workItem from="1617954691172" duration="2154000" />
+      <workItem from="1621437937765" duration="733000" />
+      <workItem from="1621476817176" duration="1022000" />
+      <workItem from="1621912695675" duration="914000" />
+      <workItem from="1622083188936" duration="288000" />
+      <workItem from="1622177321350" duration="9416000" />
+      <workItem from="1622458351232" duration="1306000" />
+      <workItem from="1622564977366" duration="259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1616997944641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1616997944641" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1614667837340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1614667837340" />
+    <state x="537" y="271" width="528" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1614679056179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="537" y="271" width="528" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1614679056179" />
+    <state x="1002" y="116" key="#xdebugger.evaluate" timestamp="1617347464144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1002" y="116" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1617347464144" />
+    <state x="465" y="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1622264468620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1622264468620" />
+    <state x="858" y="180" key="FileChooserDialogImpl" timestamp="1622264488390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="858" y="180" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622264488390" />
+    <state width="744" height="123" key="GridCell.Tab.0.bottom" timestamp="1622301063935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="744" height="123" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622301063935" />
+    <state width="744" height="123" key="GridCell.Tab.0.center" timestamp="1622301063935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="744" height="123" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622301063935" />
+    <state width="744" height="123" key="GridCell.Tab.0.left" timestamp="1622301063935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="744" height="123" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622301063935" />
+    <state width="744" height="123" key="GridCell.Tab.0.right" timestamp="1622301063935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="744" height="123" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622301063935" />
+    <state width="746" height="184" key="GridCell.Tab.1.bottom" timestamp="1622300853149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="184" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622300853149" />
+    <state width="746" height="184" key="GridCell.Tab.1.center" timestamp="1622300853149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="184" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1622300853149" />
+    <state width="746" height="184" key="GridCell.Tab.1.left" timestamp="1622300853149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="184" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1622300853149" />
+    <state width="746" height="184" key="GridCell.Tab.1.right" timestamp="1622300853149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="184" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1622300853149" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1622564985999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1622564985999" />
+    <state x="373" y="15" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1622264437518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="373" y="15" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1622264437518" />
+    <state x="735" y="215" key="run.anything.popup" timestamp="1617334429476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="735" y="215" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1617334429476" />
+    <state x="756" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1622206412391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="756" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1622206412391" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lkb/test/org/mindrot/jbcrypt/Test1.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lkb/designMode/chainOfResponsibility/test/TestFilter.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lkb/designMode/proxyPattern/dynamicProxy/ProxyFactory.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lkb/designMode/proxyPattern/dynamicProxy/ProxyFactory.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lkb/designMode/proxyPattern/CglibProxy/ProxyFactory.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lkb/designMode/proxyPattern/CglibProxy/ProxyFactory.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lkb/designMode/proxyPattern/CglibProxy/App.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lkb/algorithm/delRepeatDate.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lkb/algorithm/delRepeatDate.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lkb/algorithm/Recursion.java</url>
+          <line>7</line>
+          <properties class="com.lkb.algorithm.Recursion" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ssm_test$StupidFactorial.ic" NAME="StupidFactorial Coverage Results" MODIFIED="1617260274300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lkb.algorithm.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
