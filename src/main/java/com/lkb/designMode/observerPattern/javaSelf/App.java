@@ -2,7 +2,7 @@ package com.lkb.designMode.observerPattern.javaSelf;
 
 import java.util.Observable;
 import java.util.Observer;
-
+//察者模式
 public class App {
     public static class RealSubject extends Observable {
 

@@ -16,6 +16,7 @@ public class test  {
                 Objects.requireNonNull(UrgencyDegree.getUrgencyDegree(TJ)).getLightUpStrategy();
         LightStrategyContext contextLight = new LightStrategyContext(lightUpStrategy);
         String result;
+
         long date=1;//一天
         result= contextLight.executeStrategy(date);
         System.out.println(result);
