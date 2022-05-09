@@ -8,7 +8,9 @@ public class test {
         // 这里假设是添加好友
         subject.attach(new FriendOneObserver());
         FriendTwoObserver twoObserver = new FriendTwoObserver();
+        FriendThreeObserver threeObserver = new FriendThreeObserver();
         subject.attach(twoObserver);
+        subject.attach(threeObserver);
 
         // 发送朋友圈动态
         subject.notifyObservers("第一个朋友圈消息");
@@ -19,5 +21,6 @@ public class test {
         subject.detach(twoObserver);
         subject.notifyObservers("第二个朋友圈消息");
         // 输出结果：FriendOne 知道了你发动态了第二个朋友圈消息
+        System.out.println(args.length);
     }
 }
